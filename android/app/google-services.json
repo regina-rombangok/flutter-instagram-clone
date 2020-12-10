@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "673154332238",
+    "project_id": "mohak-instagram-clone",
+    "storage_bucket": "mohak-instagram-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673154332238:android:4c196319c586044cb7351f",
+        "android_client_info": {
+          "package_name": "com.mohak.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673154332238-7pddreqs4k8t7traajnfsseja5pppqbj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohak.instagram",
+            "certificate_hash": "14c4ca8c191b51c6afefc4673c1cb6ac4eef4ae4"
+          }
+        },
+        {
+          "client_id": "673154332238-664ufk5flb2dsic79pjp2lhg257ga0n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqIMFtJFEOpqGD0aX9Zz7XVvl6p7-huAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673154332238-664ufk5flb2dsic79pjp2lhg257ga0n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
